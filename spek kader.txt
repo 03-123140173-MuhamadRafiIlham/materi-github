@@ -1,2 +1,6 @@
 1.bukang
 2. slayer
+3.idcard
+4. tumbler
+5. atk
+6. buah
